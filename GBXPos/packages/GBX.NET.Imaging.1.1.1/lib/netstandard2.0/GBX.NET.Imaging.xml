@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GBX.NET.Imaging</name>
+    </assembly>
+    <members>
+        <member name="T:GBX.NET.Imaging.CGameCtnChallengeExtensions">
+            <summary>
+            Imaging extensions for <see cref="T:GBX.NET.Engines.Game.CGameCtnChallenge"/>.
+            </summary>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnChallengeExtensions.GetThumbnailBitmap(GBX.NET.Engines.Game.CGameCtnChallenge)">
+            <summary>
+            Gets the map thumbnail as <see cref="T:System.Drawing.Bitmap"/>.
+            </summary>
+            <param name="node">CGameCtnChallenge</param>
+            <returns>Thumbnail as <see cref="T:System.Drawing.Bitmap"/>.</returns>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnChallengeExtensions.ExportThumbnail(GBX.NET.Engines.Game.CGameCtnChallenge,System.IO.Stream,System.Drawing.Imaging.ImageFormat)">
+            <summary>
+            Exports the map's thumbnail.
+            </summary>
+            <param name="node">CGameCtnChallenge</param>
+            <param name="stream">Stream to export to.</param>
+            <param name="format">Image format to use.</param>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnChallengeExtensions.ExportThumbnail(GBX.NET.Engines.Game.CGameCtnChallenge,System.String,System.Drawing.Imaging.ImageFormat)">
+            <summary>
+            Exports the map's thumbnail.
+            </summary>
+            <param name="node">CGameCtnChallenge</param>
+            <param name="fileName">File to export to.</param>
+            <param name="format">Image format to use.</param>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnChallengeExtensions.ImportThumbnail(GBX.NET.Engines.Game.CGameCtnChallenge,System.IO.Stream)">
+            <summary>
+            Replaces a thumbnail (any popular image format) to use for the map.
+            </summary>
+            <param name="node">CGameCtnChallenge</param>
+            <param name="stream">Stream to import from.</param>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnChallengeExtensions.ImportThumbnail(GBX.NET.Engines.Game.CGameCtnChallenge,System.String)">
+            <summary>
+            Replaces a thumbnail (any popular image format) to use for the map.
+            </summary>
+            <param name="node">CGameCtnChallenge</param>
+            <param name="fileName">File to import from.</param>
+        </member>
+        <member name="T:GBX.NET.Imaging.CGameCtnCollectorExtensions">
+            <summary>
+            Imaging extensions for <see cref="T:GBX.NET.Engines.GameData.CGameCtnCollector"/>.
+            </summary>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnCollectorExtensions.GetIconBitmap(GBX.NET.Engines.GameData.CGameCtnCollector)">
+            <summary>
+            Gets the collector's icon as <see cref="T:System.Drawing.Bitmap"/>.
+            </summary>
+            <param name="node">CGameCtnCollector</param>
+            <returns>Thumbnail as <see cref="T:System.Drawing.Bitmap"/>. Null if <see cref="P:GBX.NET.Engines.GameData.CGameCtnCollector.Icon"/> is null.</returns>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnCollectorExtensions.ExportIcon(GBX.NET.Engines.GameData.CGameCtnCollector,System.IO.Stream,System.Drawing.Imaging.ImageFormat)">
+            <summary>
+            Exports the collector's icon.
+            </summary>
+            <param name="node">CGameCtnCollector</param>
+            <param name="stream">Stream to export to.</param>
+            <param name="format">Image format to use.</param>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnCollectorExtensions.ExportIcon(GBX.NET.Engines.GameData.CGameCtnCollector,System.IO.Stream)">
+            <summary>
+            Exports the collector's icon as PNG.
+            </summary>
+            <param name="node">CGameCtnCollector</param>
+            <param name="stream">Stream to export to.</param>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnCollectorExtensions.ExportIcon(GBX.NET.Engines.GameData.CGameCtnCollector,System.String,System.Drawing.Imaging.ImageFormat)">
+            <summary>
+            Exports the collector's icon.
+            </summary>
+            <param name="node">CGameCtnCollector</param>
+            <param name="fileName">File to export to.</param>
+            <param name="format">Image format to use.</param>
+        </member>
+        <member name="M:GBX.NET.Imaging.CGameCtnCollectorExtensions.ExportIcon(GBX.NET.Engines.GameData.CGameCtnCollector,System.String)">
+            <summary>
+            Exports the collector's icon as PNG.
+            </summary>
+            <param name="node">CGameCtnCollector</param>
+            <param name="fileName">File to export to.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,92 @@
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBXPos.exe.config
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBXPos.exe
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBXPos.pdb
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.AssemblyReference.cache
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.SuggestedBindingRedirects.cache
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.Form1.resources
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.Properties.Resources.resources
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.GenerateResource.cache
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.CoreCompileInputs.cache
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.exe
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.pdb
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Buffers.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Memory.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.ValueTuple.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\TmEssentials.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Buffers.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Memory.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.ValueTuple.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\TmEssentials.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.CopyComplete
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.Imaging.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.Json.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.LZO.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.Imaging.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.Json.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\GBX.NET.LZO.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Text.Json.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Text.Json.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\FileError.ico
+C:\Users\nmita\source\repos\GBXPos\GBXPos\bin\Debug\Logo.ico
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\FileError.ico
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\Logo.ico
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBXPos.exe.config
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBXPos.exe
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBXPos.pdb
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.Imaging.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.Json.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.LZO.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Buffers.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Memory.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Text.Json.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.ValueTuple.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\TmEssentials.dll
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.Imaging.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.Json.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\GBX.NET.LZO.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Buffers.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Memory.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Text.Json.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\System.ValueTuple.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\bin\Debug\TmEssentials.xml
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.AssemblyReference.cache
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.SuggestedBindingRedirects.cache
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.Form1.resources
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.Properties.Resources.resources
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.GenerateResource.cache
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.CoreCompileInputs.cache
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.csproj.CopyComplete
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.exe
+C:\Users\nmita\AppData\Roaming\Blender Foundation\Blender\3.4\scripts\addons\GBXPosBlenderAddon\GBXPos\GBXPos\obj\Debug\GBXPos.pdb
