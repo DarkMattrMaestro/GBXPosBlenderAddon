@@ -680,7 +680,7 @@ def LoadCameraCustom(_cameraCustom) :
                 if (constraint.influence != 1):
                     constraint.influence = 0
                     constraint.keyframe_insert(data_path='influence', frame=currentFrame-1)
-                    constraint.influence = 1
+                    constraint.influence = 1#aa
                     constraint.keyframe_insert(data_path='influence', frame=currentFrame)
                 
                 cameraTarget.location.x = -targetPosition["X"]
