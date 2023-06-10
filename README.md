@@ -16,3 +16,14 @@ Here is an example of something that can be done with the addon: https://www.you
 - Loading blocks
 - Loading the car and it's movement
 - Compositing the render on top of the replay
+
+## Incomplete
+
+- Camera animation
+  - Hermite & Fixed Tangant interpolation aren't yet added
+  - Anything other than the Custom Camera doesn't work
+- Textures
+  - The transparency textures for the car and blocks is not complete
+- Ghosts
+  - Only one ghost is supported
+- And more...
